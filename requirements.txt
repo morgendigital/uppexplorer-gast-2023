@@ -1,0 +1,11 @@
+streamlit
+openai
+pandas
+csv
+json
+time
+dotenv
+os
+requests
+datetime
+random
